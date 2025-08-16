@@ -1,0 +1,1925 @@
+{
+  "matchId": "20230301-M-Dubai-R16-Alejandro_Davidovich_Fokina-Andrey_Rublev",
+  "player1": "Alejandro Davidovich Fokina",
+  "player2": "Andrey Rublev",
+  "tournament": "Dubai",
+  "points": [
+    {
+      "pointId": 107,
+      "score": "0-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 4,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 108,
+      "score": "15-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 8,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 109,
+      "score": "15-30",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 8,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 110,
+      "score": "30-30",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 8,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 111,
+      "score": "40-30",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 7,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 112,
+      "score": "0-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 4,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 113,
+      "score": "1-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 2,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 114,
+      "score": "2-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 4,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 115,
+      "score": "0-3",
+      "serving": "Andrey Rublev",
+      "rallyLength": 6,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 116,
+      "score": "0-4",
+      "serving": "Andrey Rublev",
+      "rallyLength": 8,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 117,
+      "score": "4-1",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 7,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 118,
+      "score": "5-1",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 2,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 119,
+      "score": "1-6",
+      "serving": "Andrey Rublev",
+      "rallyLength": 8,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 120,
+      "score": "2-6",
+      "serving": "Andrey Rublev",
+      "rallyLength": 7,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 121,
+      "score": "6-3",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 7,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 122,
+      "score": "6-4",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 4,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 123,
+      "score": "5-6",
+      "serving": "Andrey Rublev",
+      "rallyLength": 2,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 124,
+      "score": "6-6",
+      "serving": "Andrey Rublev",
+      "rallyLength": 4,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 125,
+      "score": "6-7",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 9,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 126,
+      "score": "0-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 9,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 127,
+      "score": "0-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 3,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 128,
+      "score": "15-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 7,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 129,
+      "score": "15-30",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 7,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 130,
+      "score": "30-30",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 2,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 131,
+      "score": "40-30",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 2,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 132,
+      "score": "40-40",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 5,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 133,
+      "score": "AD-40",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 5,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 134,
+      "score": "40-40",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 2,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 135,
+      "score": "AD-40",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 6,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 136,
+      "score": "0-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 2,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 137,
+      "score": "15-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 5,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 138,
+      "score": "30-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 6,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 139,
+      "score": "30-15",
+      "serving": "Andrey Rublev",
+      "rallyLength": 6,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 140,
+      "score": "40-15",
+      "serving": "Andrey Rublev",
+      "rallyLength": 4,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 141,
+      "score": "0-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 9,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 142,
+      "score": "0-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 3,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 143,
+      "score": "15-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 2,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 144,
+      "score": "30-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 3,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 145,
+      "score": "40-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 8,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 146,
+      "score": "0-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 3,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 147,
+      "score": "15-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 7,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 148,
+      "score": "30-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 3,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 149,
+      "score": "40-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 3,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 150,
+      "score": "0-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 3,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 151,
+      "score": "15-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 2,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 152,
+      "score": "15-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 7,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 153,
+      "score": "15-30",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 7,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 154,
+      "score": "30-30",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 2,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 155,
+      "score": "30-40",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 8,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 156,
+      "score": "40-40",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 9,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 157,
+      "score": "AD-40",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 2,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 158,
+      "score": "40-40",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 3,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 159,
+      "score": "40-AD",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 5,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 160,
+      "score": "40-40",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 4,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 161,
+      "score": "AD-40",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 8,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 162,
+      "score": "0-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 4,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 163,
+      "score": "15-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 3,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 164,
+      "score": "30-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 4,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 165,
+      "score": "30-15",
+      "serving": "Andrey Rublev",
+      "rallyLength": 5,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 166,
+      "score": "30-30",
+      "serving": "Andrey Rublev",
+      "rallyLength": 8,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 167,
+      "score": "40-30",
+      "serving": "Andrey Rublev",
+      "rallyLength": 4,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 168,
+      "score": "0-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 8,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 169,
+      "score": "15-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 8,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 170,
+      "score": "30-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 5,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 171,
+      "score": "30-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 3,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 172,
+      "score": "40-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 5,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 173,
+      "score": "40-30",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 2,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 174,
+      "score": "0-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 4,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 175,
+      "score": "0-15",
+      "serving": "Andrey Rublev",
+      "rallyLength": 7,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 176,
+      "score": "15-15",
+      "serving": "Andrey Rublev",
+      "rallyLength": 6,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 177,
+      "score": "30-15",
+      "serving": "Andrey Rublev",
+      "rallyLength": 4,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 178,
+      "score": "30-30",
+      "serving": "Andrey Rublev",
+      "rallyLength": 3,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 179,
+      "score": "40-30",
+      "serving": "Andrey Rublev",
+      "rallyLength": 8,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 180,
+      "score": "40-40",
+      "serving": "Andrey Rublev",
+      "rallyLength": 9,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 181,
+      "score": "AD-40",
+      "serving": "Andrey Rublev",
+      "rallyLength": 7,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 182,
+      "score": "0-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 5,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 183,
+      "score": "0-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 7,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 184,
+      "score": "0-30",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 3,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 185,
+      "score": "15-30",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 4,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 186,
+      "score": "30-30",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 9,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 187,
+      "score": "40-30",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 4,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 188,
+      "score": "0-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 8,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 189,
+      "score": "15-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 8,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 190,
+      "score": "15-15",
+      "serving": "Andrey Rublev",
+      "rallyLength": 9,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 191,
+      "score": "30-15",
+      "serving": "Andrey Rublev",
+      "rallyLength": 9,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 192,
+      "score": "40-15",
+      "serving": "Andrey Rublev",
+      "rallyLength": 8,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 193,
+      "score": "0-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 5,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 194,
+      "score": "0-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 9,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 195,
+      "score": "15-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 2,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 196,
+      "score": "30-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 7,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 197,
+      "score": "40-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 9,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 198,
+      "score": "0-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 9,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 199,
+      "score": "15-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 4,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 200,
+      "score": "30-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 4,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 201,
+      "score": "40-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 8,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 202,
+      "score": "40-15",
+      "serving": "Andrey Rublev",
+      "rallyLength": 5,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 203,
+      "score": "40-30",
+      "serving": "Andrey Rublev",
+      "rallyLength": 7,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 204,
+      "score": "0-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 3,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 205,
+      "score": "1-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 4,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 206,
+      "score": "2-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 6,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 207,
+      "score": "1-2",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 7,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 208,
+      "score": "1-3",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 2,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 209,
+      "score": "4-1",
+      "serving": "Andrey Rublev",
+      "rallyLength": 3,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 210,
+      "score": "5-1",
+      "serving": "Andrey Rublev",
+      "rallyLength": 6,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 211,
+      "score": "1-6",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 6,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 212,
+      "score": "2-6",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 5,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 213,
+      "score": "6-3",
+      "serving": "Andrey Rublev",
+      "rallyLength": 5,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 1,
+      "score": "0-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 2,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 2,
+      "score": "15-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 4,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 3,
+      "score": "15-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 6,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 4,
+      "score": "15-30",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 6,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 5,
+      "score": "30-30",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 3,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 6,
+      "score": "40-30",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 9,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 7,
+      "score": "40-40",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 6,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 56,
+      "score": "15-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 7,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 8,
+      "score": "AD-40",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 4,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 9,
+      "score": "40-40",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 4,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 10,
+      "score": "AD-40",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 4,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 11,
+      "score": "0-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 5,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 12,
+      "score": "15-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 7,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 13,
+      "score": "15-15",
+      "serving": "Andrey Rublev",
+      "rallyLength": 8,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 14,
+      "score": "15-30",
+      "serving": "Andrey Rublev",
+      "rallyLength": 6,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 15,
+      "score": "15-40",
+      "serving": "Andrey Rublev",
+      "rallyLength": 2,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 16,
+      "score": "0-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 3,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 17,
+      "score": "15-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 8,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 18,
+      "score": "30-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 4,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 19,
+      "score": "40-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 9,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 20,
+      "score": "0-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 7,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 21,
+      "score": "15-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 2,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 22,
+      "score": "30-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 6,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 23,
+      "score": "30-15",
+      "serving": "Andrey Rublev",
+      "rallyLength": 8,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 24,
+      "score": "30-30",
+      "serving": "Andrey Rublev",
+      "rallyLength": 5,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 25,
+      "score": "30-40",
+      "serving": "Andrey Rublev",
+      "rallyLength": 4,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 26,
+      "score": "40-40",
+      "serving": "Andrey Rublev",
+      "rallyLength": 5,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 27,
+      "score": "40-AD",
+      "serving": "Andrey Rublev",
+      "rallyLength": 7,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 28,
+      "score": "40-40",
+      "serving": "Andrey Rublev",
+      "rallyLength": 3,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 29,
+      "score": "40-AD",
+      "serving": "Andrey Rublev",
+      "rallyLength": 2,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 30,
+      "score": "0-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 5,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 31,
+      "score": "0-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 5,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 32,
+      "score": "15-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 2,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 33,
+      "score": "30-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 6,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 34,
+      "score": "40-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 2,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 35,
+      "score": "0-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 3,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 36,
+      "score": "0-15",
+      "serving": "Andrey Rublev",
+      "rallyLength": 3,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 37,
+      "score": "15-15",
+      "serving": "Andrey Rublev",
+      "rallyLength": 9,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 38,
+      "score": "15-30",
+      "serving": "Andrey Rublev",
+      "rallyLength": 7,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 39,
+      "score": "30-30",
+      "serving": "Andrey Rublev",
+      "rallyLength": 5,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 40,
+      "score": "40-30",
+      "serving": "Andrey Rublev",
+      "rallyLength": 7,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 41,
+      "score": "40-40",
+      "serving": "Andrey Rublev",
+      "rallyLength": 8,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 42,
+      "score": "AD-40",
+      "serving": "Andrey Rublev",
+      "rallyLength": 5,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 43,
+      "score": "40-40",
+      "serving": "Andrey Rublev",
+      "rallyLength": 4,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 44,
+      "score": "AD-40",
+      "serving": "Andrey Rublev",
+      "rallyLength": 5,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 45,
+      "score": "0-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 9,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 46,
+      "score": "0-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 2,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 47,
+      "score": "15-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 5,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 48,
+      "score": "30-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 6,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 49,
+      "score": "40-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 2,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 50,
+      "score": "0-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 7,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 51,
+      "score": "0-15",
+      "serving": "Andrey Rublev",
+      "rallyLength": 2,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 52,
+      "score": "15-15",
+      "serving": "Andrey Rublev",
+      "rallyLength": 2,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 53,
+      "score": "30-15",
+      "serving": "Andrey Rublev",
+      "rallyLength": 3,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 54,
+      "score": "40-15",
+      "serving": "Andrey Rublev",
+      "rallyLength": 7,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 55,
+      "score": "0-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 4,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 57,
+      "score": "30-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 8,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 58,
+      "score": "40-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 4,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 59,
+      "score": "0-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 3,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 60,
+      "score": "15-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 8,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 61,
+      "score": "30-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 9,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 62,
+      "score": "30-15",
+      "serving": "Andrey Rublev",
+      "rallyLength": 4,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 63,
+      "score": "40-15",
+      "serving": "Andrey Rublev",
+      "rallyLength": 4,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 64,
+      "score": "0-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 7,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 65,
+      "score": "0-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 2,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 66,
+      "score": "15-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 2,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 67,
+      "score": "30-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 7,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 68,
+      "score": "40-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 5,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 69,
+      "score": "0-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 3,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 70,
+      "score": "15-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 5,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 71,
+      "score": "30-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 3,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 72,
+      "score": "40-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 8,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 73,
+      "score": "0-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 8,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 74,
+      "score": "0-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 3,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 75,
+      "score": "15-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 2,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 76,
+      "score": "15-30",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 7,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 77,
+      "score": "30-30",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 7,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 78,
+      "score": "40-30",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 4,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 79,
+      "score": "0-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 8,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 80,
+      "score": "15-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 6,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 81,
+      "score": "30-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 4,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 82,
+      "score": "40-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 7,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 83,
+      "score": "0-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 7,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 84,
+      "score": "15-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 5,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 85,
+      "score": "30-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 4,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 86,
+      "score": "40-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 3,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 87,
+      "score": "40-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 9,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 88,
+      "score": "0-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 7,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 89,
+      "score": "15-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 4,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 90,
+      "score": "30-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 6,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 91,
+      "score": "40-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 2,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 92,
+      "score": "0-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 3,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 93,
+      "score": "15-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 6,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 94,
+      "score": "30-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 4,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 95,
+      "score": "30-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 6,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 96,
+      "score": "40-15",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 9,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 97,
+      "score": "40-30",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 5,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 98,
+      "score": "0-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 3,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 99,
+      "score": "15-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 8,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 100,
+      "score": "30-0",
+      "serving": "Andrey Rublev",
+      "rallyLength": 9,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 101,
+      "score": "30-15",
+      "serving": "Andrey Rublev",
+      "rallyLength": 4,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 102,
+      "score": "40-15",
+      "serving": "Andrey Rublev",
+      "rallyLength": 9,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 103,
+      "score": "40-30",
+      "serving": "Andrey Rublev",
+      "rallyLength": 2,
+      "winner": "Alejandro Davidovich Fokina",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 104,
+      "score": "40-40",
+      "serving": "Andrey Rublev",
+      "rallyLength": 2,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 105,
+      "score": "AD-40",
+      "serving": "Andrey Rublev",
+      "rallyLength": 2,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 106,
+      "score": "0-0",
+      "serving": "Alejandro Davidovich Fokina",
+      "rallyLength": 3,
+      "winner": "Andrey Rublev",
+      "outcome": "Point",
+      "isBreakPoint": false
+    }
+  ]
+}

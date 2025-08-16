@@ -1,0 +1,1484 @@
+{
+  "matchId": "20200106-M-ATP_Cup-RR-Taylor_Fritz-Karen_Khachanov",
+  "player1": "Taylor Fritz",
+  "player2": "Karen Khachanov",
+  "tournament": "ATP Cup",
+  "points": [
+    {
+      "pointId": 1,
+      "score": "0-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 6,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 2,
+      "score": "0-15",
+      "serving": "Taylor Fritz",
+      "rallyLength": 4,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 3,
+      "score": "15-15",
+      "serving": "Taylor Fritz",
+      "rallyLength": 4,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 4,
+      "score": "15-30",
+      "serving": "Taylor Fritz",
+      "rallyLength": 6,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 5,
+      "score": "30-30",
+      "serving": "Taylor Fritz",
+      "rallyLength": 4,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 6,
+      "score": "40-30",
+      "serving": "Taylor Fritz",
+      "rallyLength": 2,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 7,
+      "score": "0-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 8,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 8,
+      "score": "0-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 8,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 9,
+      "score": "0-30",
+      "serving": "Karen Khachanov",
+      "rallyLength": 4,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 10,
+      "score": "0-40",
+      "serving": "Karen Khachanov",
+      "rallyLength": 9,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 11,
+      "score": "15-40",
+      "serving": "Karen Khachanov",
+      "rallyLength": 2,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 12,
+      "score": "0-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 4,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 13,
+      "score": "15-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 2,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 14,
+      "score": "15-15",
+      "serving": "Taylor Fritz",
+      "rallyLength": 8,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 15,
+      "score": "30-15",
+      "serving": "Taylor Fritz",
+      "rallyLength": 4,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 16,
+      "score": "40-15",
+      "serving": "Taylor Fritz",
+      "rallyLength": 6,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 17,
+      "score": "0-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 2,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 18,
+      "score": "0-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 8,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 19,
+      "score": "15-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 4,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 20,
+      "score": "30-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 6,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 21,
+      "score": "40-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 5,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 22,
+      "score": "0-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 4,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 23,
+      "score": "0-15",
+      "serving": "Taylor Fritz",
+      "rallyLength": 9,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 24,
+      "score": "15-15",
+      "serving": "Taylor Fritz",
+      "rallyLength": 9,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 25,
+      "score": "30-15",
+      "serving": "Taylor Fritz",
+      "rallyLength": 7,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 26,
+      "score": "40-15",
+      "serving": "Taylor Fritz",
+      "rallyLength": 9,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 27,
+      "score": "0-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 2,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 28,
+      "score": "15-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 7,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 29,
+      "score": "30-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 9,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 30,
+      "score": "40-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 3,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 31,
+      "score": "0-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 7,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 32,
+      "score": "0-15",
+      "serving": "Taylor Fritz",
+      "rallyLength": 6,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 33,
+      "score": "15-15",
+      "serving": "Taylor Fritz",
+      "rallyLength": 9,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 34,
+      "score": "30-15",
+      "serving": "Taylor Fritz",
+      "rallyLength": 6,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 35,
+      "score": "40-15",
+      "serving": "Taylor Fritz",
+      "rallyLength": 2,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 36,
+      "score": "40-30",
+      "serving": "Taylor Fritz",
+      "rallyLength": 7,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 37,
+      "score": "40-40",
+      "serving": "Taylor Fritz",
+      "rallyLength": 6,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 38,
+      "score": "AD-40",
+      "serving": "Taylor Fritz",
+      "rallyLength": 4,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 39,
+      "score": "0-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 3,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 40,
+      "score": "15-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 6,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 41,
+      "score": "30-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 9,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 42,
+      "score": "40-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 6,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 43,
+      "score": "40-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 3,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 44,
+      "score": "40-30",
+      "serving": "Karen Khachanov",
+      "rallyLength": 2,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 45,
+      "score": "0-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 5,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 46,
+      "score": "15-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 9,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 47,
+      "score": "15-15",
+      "serving": "Taylor Fritz",
+      "rallyLength": 9,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 48,
+      "score": "30-15",
+      "serving": "Taylor Fritz",
+      "rallyLength": 4,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 49,
+      "score": "30-30",
+      "serving": "Taylor Fritz",
+      "rallyLength": 5,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 50,
+      "score": "40-30",
+      "serving": "Taylor Fritz",
+      "rallyLength": 3,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 51,
+      "score": "40-40",
+      "serving": "Taylor Fritz",
+      "rallyLength": 6,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 52,
+      "score": "40-AD",
+      "serving": "Taylor Fritz",
+      "rallyLength": 3,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 53,
+      "score": "40-40",
+      "serving": "Taylor Fritz",
+      "rallyLength": 3,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 54,
+      "score": "AD-40",
+      "serving": "Taylor Fritz",
+      "rallyLength": 6,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 55,
+      "score": "0-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 7,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 56,
+      "score": "15-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 4,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 57,
+      "score": "15-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 3,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 58,
+      "score": "15-30",
+      "serving": "Karen Khachanov",
+      "rallyLength": 5,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 59,
+      "score": "15-40",
+      "serving": "Karen Khachanov",
+      "rallyLength": 5,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 60,
+      "score": "30-40",
+      "serving": "Karen Khachanov",
+      "rallyLength": 8,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 61,
+      "score": "40-40",
+      "serving": "Karen Khachanov",
+      "rallyLength": 9,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 62,
+      "score": "AD-40",
+      "serving": "Karen Khachanov",
+      "rallyLength": 5,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 63,
+      "score": "40-40",
+      "serving": "Karen Khachanov",
+      "rallyLength": 2,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 64,
+      "score": "AD-40",
+      "serving": "Karen Khachanov",
+      "rallyLength": 5,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 65,
+      "score": "0-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 6,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 66,
+      "score": "15-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 4,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 67,
+      "score": "30-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 5,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 68,
+      "score": "40-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 7,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 69,
+      "score": "40-15",
+      "serving": "Taylor Fritz",
+      "rallyLength": 9,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 70,
+      "score": "0-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 9,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 71,
+      "score": "0-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 6,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 72,
+      "score": "15-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 6,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 73,
+      "score": "30-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 3,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 74,
+      "score": "40-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 8,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 75,
+      "score": "0-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 8,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 76,
+      "score": "15-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 2,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 77,
+      "score": "30-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 2,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 78,
+      "score": "40-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 9,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 79,
+      "score": "0-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 5,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 80,
+      "score": "0-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 6,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 81,
+      "score": "0-30",
+      "serving": "Karen Khachanov",
+      "rallyLength": 8,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 82,
+      "score": "15-30",
+      "serving": "Karen Khachanov",
+      "rallyLength": 9,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 83,
+      "score": "15-40",
+      "serving": "Karen Khachanov",
+      "rallyLength": 2,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 84,
+      "score": "30-40",
+      "serving": "Karen Khachanov",
+      "rallyLength": 9,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 85,
+      "score": "0-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 4,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 86,
+      "score": "15-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 8,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 87,
+      "score": "30-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 2,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 88,
+      "score": "30-15",
+      "serving": "Taylor Fritz",
+      "rallyLength": 2,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 89,
+      "score": "30-30",
+      "serving": "Taylor Fritz",
+      "rallyLength": 9,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 90,
+      "score": "30-40",
+      "serving": "Taylor Fritz",
+      "rallyLength": 8,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 91,
+      "score": "0-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 8,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 92,
+      "score": "0-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 5,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 93,
+      "score": "15-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 3,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 94,
+      "score": "30-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 8,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 95,
+      "score": "40-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 2,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 96,
+      "score": "0-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 7,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 97,
+      "score": "15-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 6,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 98,
+      "score": "30-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 4,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 99,
+      "score": "40-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 2,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 100,
+      "score": "40-15",
+      "serving": "Taylor Fritz",
+      "rallyLength": 4,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 101,
+      "score": "0-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 6,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 102,
+      "score": "15-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 7,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 103,
+      "score": "30-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 9,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 104,
+      "score": "40-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 9,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 105,
+      "score": "0-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 9,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 106,
+      "score": "15-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 9,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 107,
+      "score": "15-15",
+      "serving": "Taylor Fritz",
+      "rallyLength": 7,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 108,
+      "score": "30-15",
+      "serving": "Taylor Fritz",
+      "rallyLength": 9,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 109,
+      "score": "40-15",
+      "serving": "Taylor Fritz",
+      "rallyLength": 6,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 110,
+      "score": "40-30",
+      "serving": "Taylor Fritz",
+      "rallyLength": 6,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 111,
+      "score": "40-40",
+      "serving": "Taylor Fritz",
+      "rallyLength": 2,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 112,
+      "score": "40-AD",
+      "serving": "Taylor Fritz",
+      "rallyLength": 3,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 113,
+      "score": "40-40",
+      "serving": "Taylor Fritz",
+      "rallyLength": 5,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 114,
+      "score": "AD-40",
+      "serving": "Taylor Fritz",
+      "rallyLength": 2,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 115,
+      "score": "0-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 5,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 116,
+      "score": "0-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 3,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 117,
+      "score": "15-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 7,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 118,
+      "score": "30-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 6,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 119,
+      "score": "40-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 2,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 120,
+      "score": "0-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 4,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 121,
+      "score": "15-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 6,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 122,
+      "score": "15-15",
+      "serving": "Taylor Fritz",
+      "rallyLength": 7,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 123,
+      "score": "15-30",
+      "serving": "Taylor Fritz",
+      "rallyLength": 9,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 124,
+      "score": "15-40",
+      "serving": "Taylor Fritz",
+      "rallyLength": 5,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 125,
+      "score": "30-40",
+      "serving": "Taylor Fritz",
+      "rallyLength": 7,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 126,
+      "score": "0-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 9,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 127,
+      "score": "15-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 5,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 128,
+      "score": "30-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 2,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 129,
+      "score": "40-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 8,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 130,
+      "score": "0-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 3,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 131,
+      "score": "15-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 3,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 132,
+      "score": "15-15",
+      "serving": "Taylor Fritz",
+      "rallyLength": 2,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 133,
+      "score": "15-30",
+      "serving": "Taylor Fritz",
+      "rallyLength": 3,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 134,
+      "score": "15-40",
+      "serving": "Taylor Fritz",
+      "rallyLength": 3,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 135,
+      "score": "0-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 5,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 136,
+      "score": "0-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 5,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 137,
+      "score": "15-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 6,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 138,
+      "score": "15-30",
+      "serving": "Karen Khachanov",
+      "rallyLength": 4,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 139,
+      "score": "30-30",
+      "serving": "Karen Khachanov",
+      "rallyLength": 4,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 140,
+      "score": "40-30",
+      "serving": "Karen Khachanov",
+      "rallyLength": 7,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 141,
+      "score": "0-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 2,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 142,
+      "score": "15-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 9,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 143,
+      "score": "15-15",
+      "serving": "Taylor Fritz",
+      "rallyLength": 3,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 144,
+      "score": "15-30",
+      "serving": "Taylor Fritz",
+      "rallyLength": 5,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 145,
+      "score": "30-30",
+      "serving": "Taylor Fritz",
+      "rallyLength": 3,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 146,
+      "score": "40-30",
+      "serving": "Taylor Fritz",
+      "rallyLength": 6,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 147,
+      "score": "40-40",
+      "serving": "Taylor Fritz",
+      "rallyLength": 2,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 148,
+      "score": "AD-40",
+      "serving": "Taylor Fritz",
+      "rallyLength": 8,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 149,
+      "score": "0-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 8,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 150,
+      "score": "0-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 7,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 151,
+      "score": "15-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 3,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 152,
+      "score": "30-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 3,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 153,
+      "score": "40-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 9,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 154,
+      "score": "0-0",
+      "serving": "Taylor Fritz",
+      "rallyLength": 8,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 155,
+      "score": "0-15",
+      "serving": "Taylor Fritz",
+      "rallyLength": 2,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 156,
+      "score": "15-15",
+      "serving": "Taylor Fritz",
+      "rallyLength": 9,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 157,
+      "score": "15-30",
+      "serving": "Taylor Fritz",
+      "rallyLength": 4,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 158,
+      "score": "30-30",
+      "serving": "Taylor Fritz",
+      "rallyLength": 4,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 159,
+      "score": "30-40",
+      "serving": "Taylor Fritz",
+      "rallyLength": 2,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 160,
+      "score": "0-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 3,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 161,
+      "score": "15-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 9,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 162,
+      "score": "30-0",
+      "serving": "Karen Khachanov",
+      "rallyLength": 3,
+      "winner": "Taylor Fritz",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 163,
+      "score": "30-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 6,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 164,
+      "score": "40-15",
+      "serving": "Karen Khachanov",
+      "rallyLength": 3,
+      "winner": "Karen Khachanov",
+      "outcome": "Point",
+      "isBreakPoint": false
+    }
+  ]
+}

@@ -1,0 +1,944 @@
+{
+  "matchId": "20240701-M-Bloomfield_Hills_CH-R32-Ozan_Baris-Ethan_Quinn",
+  "player1": "Ozan Baris",
+  "player2": "Ethan Quinn",
+  "tournament": "Bloomfield Hills CH",
+  "points": [
+    {
+      "pointId": 1,
+      "score": "0-0",
+      "serving": "Ozan Baris",
+      "rallyLength": 6,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 2,
+      "score": "15-0",
+      "serving": "Ozan Baris",
+      "rallyLength": 5,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 3,
+      "score": "30-0",
+      "serving": "Ozan Baris",
+      "rallyLength": 8,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 4,
+      "score": "30-15",
+      "serving": "Ozan Baris",
+      "rallyLength": 4,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 5,
+      "score": "30-30",
+      "serving": "Ozan Baris",
+      "rallyLength": 7,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 6,
+      "score": "40-30",
+      "serving": "Ozan Baris",
+      "rallyLength": 5,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 7,
+      "score": "0-0",
+      "serving": "Ethan Quinn",
+      "rallyLength": 3,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 8,
+      "score": "15-0",
+      "serving": "Ethan Quinn",
+      "rallyLength": 3,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 9,
+      "score": "30-0",
+      "serving": "Ethan Quinn",
+      "rallyLength": 6,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 10,
+      "score": "30-15",
+      "serving": "Ethan Quinn",
+      "rallyLength": 4,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 11,
+      "score": "40-15",
+      "serving": "Ethan Quinn",
+      "rallyLength": 5,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 12,
+      "score": "40-30",
+      "serving": "Ethan Quinn",
+      "rallyLength": 7,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 13,
+      "score": "0-0",
+      "serving": "Ozan Baris",
+      "rallyLength": 6,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 14,
+      "score": "0-15",
+      "serving": "Ozan Baris",
+      "rallyLength": 2,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 15,
+      "score": "0-30",
+      "serving": "Ozan Baris",
+      "rallyLength": 9,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 16,
+      "score": "0-40",
+      "serving": "Ozan Baris",
+      "rallyLength": 9,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 17,
+      "score": "15-40",
+      "serving": "Ozan Baris",
+      "rallyLength": 4,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 18,
+      "score": "0-0",
+      "serving": "Ethan Quinn",
+      "rallyLength": 6,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 19,
+      "score": "15-0",
+      "serving": "Ethan Quinn",
+      "rallyLength": 4,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 20,
+      "score": "15-15",
+      "serving": "Ethan Quinn",
+      "rallyLength": 5,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 21,
+      "score": "30-15",
+      "serving": "Ethan Quinn",
+      "rallyLength": 8,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 22,
+      "score": "40-15",
+      "serving": "Ethan Quinn",
+      "rallyLength": 7,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 23,
+      "score": "0-0",
+      "serving": "Ozan Baris",
+      "rallyLength": 4,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 24,
+      "score": "0-15",
+      "serving": "Ozan Baris",
+      "rallyLength": 4,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 25,
+      "score": "0-30",
+      "serving": "Ozan Baris",
+      "rallyLength": 4,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 26,
+      "score": "0-40",
+      "serving": "Ozan Baris",
+      "rallyLength": 2,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 27,
+      "score": "15-40",
+      "serving": "Ozan Baris",
+      "rallyLength": 6,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 28,
+      "score": "30-40",
+      "serving": "Ozan Baris",
+      "rallyLength": 6,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 29,
+      "score": "0-0",
+      "serving": "Ethan Quinn",
+      "rallyLength": 2,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 30,
+      "score": "0-15",
+      "serving": "Ethan Quinn",
+      "rallyLength": 8,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 31,
+      "score": "15-15",
+      "serving": "Ethan Quinn",
+      "rallyLength": 2,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 32,
+      "score": "15-30",
+      "serving": "Ethan Quinn",
+      "rallyLength": 6,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 33,
+      "score": "15-40",
+      "serving": "Ethan Quinn",
+      "rallyLength": 3,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 34,
+      "score": "30-40",
+      "serving": "Ethan Quinn",
+      "rallyLength": 3,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 35,
+      "score": "40-40",
+      "serving": "Ethan Quinn",
+      "rallyLength": 6,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 36,
+      "score": "AD-40",
+      "serving": "Ethan Quinn",
+      "rallyLength": 9,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 37,
+      "score": "40-40",
+      "serving": "Ethan Quinn",
+      "rallyLength": 8,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 38,
+      "score": "AD-40",
+      "serving": "Ethan Quinn",
+      "rallyLength": 2,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 39,
+      "score": "40-40",
+      "serving": "Ethan Quinn",
+      "rallyLength": 4,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 40,
+      "score": "AD-40",
+      "serving": "Ethan Quinn",
+      "rallyLength": 6,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 41,
+      "score": "0-0",
+      "serving": "Ozan Baris",
+      "rallyLength": 4,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 42,
+      "score": "0-15",
+      "serving": "Ozan Baris",
+      "rallyLength": 7,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 43,
+      "score": "0-30",
+      "serving": "Ozan Baris",
+      "rallyLength": 2,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 44,
+      "score": "15-30",
+      "serving": "Ozan Baris",
+      "rallyLength": 7,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 45,
+      "score": "30-30",
+      "serving": "Ozan Baris",
+      "rallyLength": 6,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 46,
+      "score": "40-30",
+      "serving": "Ozan Baris",
+      "rallyLength": 8,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 47,
+      "score": "0-0",
+      "serving": "Ethan Quinn",
+      "rallyLength": 8,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 48,
+      "score": "0-15",
+      "serving": "Ethan Quinn",
+      "rallyLength": 3,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 49,
+      "score": "15-15",
+      "serving": "Ethan Quinn",
+      "rallyLength": 3,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 50,
+      "score": "15-30",
+      "serving": "Ethan Quinn",
+      "rallyLength": 9,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 51,
+      "score": "30-30",
+      "serving": "Ethan Quinn",
+      "rallyLength": 3,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 52,
+      "score": "40-30",
+      "serving": "Ethan Quinn",
+      "rallyLength": 9,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 53,
+      "score": "0-0",
+      "serving": "Ozan Baris",
+      "rallyLength": 9,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 54,
+      "score": "0-15",
+      "serving": "Ozan Baris",
+      "rallyLength": 7,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 55,
+      "score": "0-30",
+      "serving": "Ozan Baris",
+      "rallyLength": 2,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 56,
+      "score": "0-40",
+      "serving": "Ozan Baris",
+      "rallyLength": 9,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 57,
+      "score": "15-40",
+      "serving": "Ozan Baris",
+      "rallyLength": 2,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 58,
+      "score": "0-0",
+      "serving": "Ethan Quinn",
+      "rallyLength": 2,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 59,
+      "score": "0-15",
+      "serving": "Ethan Quinn",
+      "rallyLength": 6,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 60,
+      "score": "0-30",
+      "serving": "Ethan Quinn",
+      "rallyLength": 9,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 61,
+      "score": "15-30",
+      "serving": "Ethan Quinn",
+      "rallyLength": 8,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 62,
+      "score": "15-40",
+      "serving": "Ethan Quinn",
+      "rallyLength": 4,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 63,
+      "score": "30-40",
+      "serving": "Ethan Quinn",
+      "rallyLength": 8,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 64,
+      "score": "40-40",
+      "serving": "Ethan Quinn",
+      "rallyLength": 6,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 65,
+      "score": "AD-40",
+      "serving": "Ethan Quinn",
+      "rallyLength": 6,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 66,
+      "score": "0-0",
+      "serving": "Ozan Baris",
+      "rallyLength": 9,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 67,
+      "score": "0-15",
+      "serving": "Ozan Baris",
+      "rallyLength": 7,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 68,
+      "score": "15-15",
+      "serving": "Ozan Baris",
+      "rallyLength": 5,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 69,
+      "score": "30-15",
+      "serving": "Ozan Baris",
+      "rallyLength": 8,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 70,
+      "score": "30-30",
+      "serving": "Ozan Baris",
+      "rallyLength": 6,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 71,
+      "score": "30-40",
+      "serving": "Ozan Baris",
+      "rallyLength": 4,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 72,
+      "score": "40-40",
+      "serving": "Ozan Baris",
+      "rallyLength": 2,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 73,
+      "score": "AD-40",
+      "serving": "Ozan Baris",
+      "rallyLength": 9,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 74,
+      "score": "40-40",
+      "serving": "Ozan Baris",
+      "rallyLength": 5,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 75,
+      "score": "40-AD",
+      "serving": "Ozan Baris",
+      "rallyLength": 5,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 76,
+      "score": "40-40",
+      "serving": "Ozan Baris",
+      "rallyLength": 6,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 77,
+      "score": "AD-40",
+      "serving": "Ozan Baris",
+      "rallyLength": 6,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 78,
+      "score": "40-40",
+      "serving": "Ozan Baris",
+      "rallyLength": 9,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 79,
+      "score": "AD-40",
+      "serving": "Ozan Baris",
+      "rallyLength": 3,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 80,
+      "score": "40-40",
+      "serving": "Ozan Baris",
+      "rallyLength": 8,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 81,
+      "score": "AD-40",
+      "serving": "Ozan Baris",
+      "rallyLength": 3,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 82,
+      "score": "0-0",
+      "serving": "Ethan Quinn",
+      "rallyLength": 7,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 83,
+      "score": "15-0",
+      "serving": "Ethan Quinn",
+      "rallyLength": 7,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 84,
+      "score": "30-0",
+      "serving": "Ethan Quinn",
+      "rallyLength": 3,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 85,
+      "score": "40-0",
+      "serving": "Ethan Quinn",
+      "rallyLength": 8,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 86,
+      "score": "0-0",
+      "serving": "Ozan Baris",
+      "rallyLength": 9,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 87,
+      "score": "0-15",
+      "serving": "Ozan Baris",
+      "rallyLength": 3,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 88,
+      "score": "0-30",
+      "serving": "Ozan Baris",
+      "rallyLength": 6,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 89,
+      "score": "0-40",
+      "serving": "Ozan Baris",
+      "rallyLength": 7,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 90,
+      "score": "0-0",
+      "serving": "Ethan Quinn",
+      "rallyLength": 6,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 91,
+      "score": "15-0",
+      "serving": "Ethan Quinn",
+      "rallyLength": 6,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 92,
+      "score": "30-0",
+      "serving": "Ethan Quinn",
+      "rallyLength": 5,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 93,
+      "score": "40-0",
+      "serving": "Ethan Quinn",
+      "rallyLength": 4,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 94,
+      "score": "0-0",
+      "serving": "Ozan Baris",
+      "rallyLength": 5,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 95,
+      "score": "15-0",
+      "serving": "Ozan Baris",
+      "rallyLength": 8,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 96,
+      "score": "15-15",
+      "serving": "Ozan Baris",
+      "rallyLength": 8,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 97,
+      "score": "30-15",
+      "serving": "Ozan Baris",
+      "rallyLength": 7,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 98,
+      "score": "40-15",
+      "serving": "Ozan Baris",
+      "rallyLength": 9,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 99,
+      "score": "40-30",
+      "serving": "Ozan Baris",
+      "rallyLength": 9,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 100,
+      "score": "0-0",
+      "serving": "Ethan Quinn",
+      "rallyLength": 5,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 101,
+      "score": "15-0",
+      "serving": "Ethan Quinn",
+      "rallyLength": 6,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 102,
+      "score": "30-0",
+      "serving": "Ethan Quinn",
+      "rallyLength": 9,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 103,
+      "score": "40-0",
+      "serving": "Ethan Quinn",
+      "rallyLength": 8,
+      "winner": "Ozan Baris",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 104,
+      "score": "40-15",
+      "serving": "Ethan Quinn",
+      "rallyLength": 5,
+      "winner": "Ethan Quinn",
+      "outcome": "Point",
+      "isBreakPoint": false
+    }
+  ]
+}

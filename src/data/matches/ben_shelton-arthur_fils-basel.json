@@ -1,0 +1,1079 @@
+{
+  "matchId": "20241026-M-Basel-SF-Ben_Shelton-Arthur_Fils",
+  "player1": "Ben Shelton",
+  "player2": "Arthur Fils",
+  "tournament": "Basel",
+  "points": [
+    {
+      "pointId": 3,
+      "score": "30-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 6,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 4,
+      "score": "40-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 8,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 5,
+      "score": "0-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 4,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 6,
+      "score": "15-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 9,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 1,
+      "score": "0-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 7,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 2,
+      "score": "15-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 4,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 7,
+      "score": "30-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 6,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 8,
+      "score": "40-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 7,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 57,
+      "score": "40-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 7,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 9,
+      "score": "0-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 5,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 10,
+      "score": "0-15",
+      "serving": "Ben Shelton",
+      "rallyLength": 2,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 11,
+      "score": "15-15",
+      "serving": "Ben Shelton",
+      "rallyLength": 4,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 12,
+      "score": "30-15",
+      "serving": "Ben Shelton",
+      "rallyLength": 2,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 13,
+      "score": "40-15",
+      "serving": "Ben Shelton",
+      "rallyLength": 8,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 14,
+      "score": "0-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 8,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 15,
+      "score": "15-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 8,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 16,
+      "score": "30-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 7,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 17,
+      "score": "40-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 7,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 18,
+      "score": "40-15",
+      "serving": "Arthur Fils",
+      "rallyLength": 3,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 19,
+      "score": "0-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 7,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 20,
+      "score": "15-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 5,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 21,
+      "score": "30-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 5,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 22,
+      "score": "40-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 8,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 23,
+      "score": "40-15",
+      "serving": "Ben Shelton",
+      "rallyLength": 6,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 24,
+      "score": "0-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 3,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 25,
+      "score": "15-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 7,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 26,
+      "score": "30-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 8,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 27,
+      "score": "40-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 3,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 28,
+      "score": "40-15",
+      "serving": "Arthur Fils",
+      "rallyLength": 6,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 29,
+      "score": "0-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 6,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 30,
+      "score": "0-15",
+      "serving": "Ben Shelton",
+      "rallyLength": 6,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 31,
+      "score": "15-15",
+      "serving": "Ben Shelton",
+      "rallyLength": 6,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 32,
+      "score": "30-15",
+      "serving": "Ben Shelton",
+      "rallyLength": 6,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 33,
+      "score": "40-15",
+      "serving": "Ben Shelton",
+      "rallyLength": 4,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 34,
+      "score": "0-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 4,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 35,
+      "score": "0-15",
+      "serving": "Arthur Fils",
+      "rallyLength": 8,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 36,
+      "score": "15-15",
+      "serving": "Arthur Fils",
+      "rallyLength": 4,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 37,
+      "score": "15-30",
+      "serving": "Arthur Fils",
+      "rallyLength": 6,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 38,
+      "score": "15-40",
+      "serving": "Arthur Fils",
+      "rallyLength": 4,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 39,
+      "score": "30-40",
+      "serving": "Arthur Fils",
+      "rallyLength": 3,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 40,
+      "score": "0-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 2,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 41,
+      "score": "15-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 8,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 42,
+      "score": "30-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 8,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 43,
+      "score": "40-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 8,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 44,
+      "score": "0-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 4,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 45,
+      "score": "15-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 2,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 46,
+      "score": "30-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 8,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 47,
+      "score": "40-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 8,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 48,
+      "score": "40-15",
+      "serving": "Arthur Fils",
+      "rallyLength": 2,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 49,
+      "score": "0-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 7,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 50,
+      "score": "15-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 2,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 51,
+      "score": "30-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 3,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 52,
+      "score": "40-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 8,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 53,
+      "score": "40-15",
+      "serving": "Ben Shelton",
+      "rallyLength": 4,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 54,
+      "score": "0-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 4,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 55,
+      "score": "15-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 9,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 56,
+      "score": "30-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 3,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 58,
+      "score": "0-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 3,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 59,
+      "score": "15-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 3,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 60,
+      "score": "30-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 7,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 61,
+      "score": "40-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 9,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 62,
+      "score": "0-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 9,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 63,
+      "score": "15-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 8,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 64,
+      "score": "15-15",
+      "serving": "Arthur Fils",
+      "rallyLength": 4,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 65,
+      "score": "30-15",
+      "serving": "Arthur Fils",
+      "rallyLength": 6,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 66,
+      "score": "40-15",
+      "serving": "Arthur Fils",
+      "rallyLength": 4,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 67,
+      "score": "0-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 2,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 68,
+      "score": "15-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 3,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 69,
+      "score": "30-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 6,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 70,
+      "score": "30-15",
+      "serving": "Ben Shelton",
+      "rallyLength": 4,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 71,
+      "score": "40-15",
+      "serving": "Ben Shelton",
+      "rallyLength": 3,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 72,
+      "score": "0-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 7,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 73,
+      "score": "15-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 8,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 74,
+      "score": "30-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 3,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 75,
+      "score": "40-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 3,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 76,
+      "score": "0-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 9,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 77,
+      "score": "15-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 3,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 78,
+      "score": "30-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 2,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 79,
+      "score": "40-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 4,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 80,
+      "score": "0-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 7,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 81,
+      "score": "0-15",
+      "serving": "Arthur Fils",
+      "rallyLength": 2,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 82,
+      "score": "15-15",
+      "serving": "Arthur Fils",
+      "rallyLength": 6,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 83,
+      "score": "30-15",
+      "serving": "Arthur Fils",
+      "rallyLength": 3,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 84,
+      "score": "40-15",
+      "serving": "Arthur Fils",
+      "rallyLength": 6,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 85,
+      "score": "0-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 9,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 86,
+      "score": "15-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 6,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 87,
+      "score": "15-15",
+      "serving": "Ben Shelton",
+      "rallyLength": 5,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 88,
+      "score": "30-15",
+      "serving": "Ben Shelton",
+      "rallyLength": 9,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 89,
+      "score": "30-30",
+      "serving": "Ben Shelton",
+      "rallyLength": 3,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 90,
+      "score": "40-30",
+      "serving": "Ben Shelton",
+      "rallyLength": 5,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 91,
+      "score": "0-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 6,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 92,
+      "score": "15-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 4,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 93,
+      "score": "30-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 7,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 94,
+      "score": "40-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 7,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 95,
+      "score": "40-15",
+      "serving": "Arthur Fils",
+      "rallyLength": 5,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 96,
+      "score": "0-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 2,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 97,
+      "score": "15-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 2,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 98,
+      "score": "30-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 6,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 99,
+      "score": "40-0",
+      "serving": "Ben Shelton",
+      "rallyLength": 4,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 100,
+      "score": "0-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 2,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 101,
+      "score": "0-1",
+      "serving": "Ben Shelton",
+      "rallyLength": 9,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 102,
+      "score": "0-2",
+      "serving": "Ben Shelton",
+      "rallyLength": 7,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 103,
+      "score": "3-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 9,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 104,
+      "score": "4-0",
+      "serving": "Arthur Fils",
+      "rallyLength": 4,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 105,
+      "score": "0-5",
+      "serving": "Ben Shelton",
+      "rallyLength": 9,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 106,
+      "score": "1-5",
+      "serving": "Ben Shelton",
+      "rallyLength": 8,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 107,
+      "score": "5-2",
+      "serving": "Arthur Fils",
+      "rallyLength": 3,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 108,
+      "score": "5-3",
+      "serving": "Arthur Fils",
+      "rallyLength": 3,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 109,
+      "score": "3-6",
+      "serving": "Ben Shelton",
+      "rallyLength": 9,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 110,
+      "score": "4-6",
+      "serving": "Ben Shelton",
+      "rallyLength": 4,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 111,
+      "score": "6-5",
+      "serving": "Arthur Fils",
+      "rallyLength": 5,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 112,
+      "score": "6-6",
+      "serving": "Arthur Fils",
+      "rallyLength": 4,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 113,
+      "score": "6-7",
+      "serving": "Ben Shelton",
+      "rallyLength": 9,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 114,
+      "score": "7-7",
+      "serving": "Ben Shelton",
+      "rallyLength": 4,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 115,
+      "score": "7-8",
+      "serving": "Arthur Fils",
+      "rallyLength": 9,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 116,
+      "score": "8-8",
+      "serving": "Arthur Fils",
+      "rallyLength": 4,
+      "winner": "Arthur Fils",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 117,
+      "score": "8-9",
+      "serving": "Ben Shelton",
+      "rallyLength": 8,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 118,
+      "score": "9-9",
+      "serving": "Ben Shelton",
+      "rallyLength": 8,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 119,
+      "score": "9-10",
+      "serving": "Arthur Fils",
+      "rallyLength": 9,
+      "winner": "Ben Shelton",
+      "outcome": "Point",
+      "isBreakPoint": false
+    }
+  ]
+}

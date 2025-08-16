@@ -1,0 +1,1691 @@
+{
+  "matchId": "20221102-M-Paris_Masters-R32-Rafael_Nadal-Tommy_Paul",
+  "player1": "Rafael Nadal",
+  "player2": "Tommy Paul",
+  "tournament": "Paris Masters",
+  "points": [
+    {
+      "pointId": 1,
+      "score": "0-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 6,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 2,
+      "score": "15-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 9,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 3,
+      "score": "30-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 7,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 4,
+      "score": "40-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 2,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 5,
+      "score": "40-15",
+      "serving": "Rafael Nadal",
+      "rallyLength": 7,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 6,
+      "score": "40-30",
+      "serving": "Rafael Nadal",
+      "rallyLength": 7,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 7,
+      "score": "40-40",
+      "serving": "Rafael Nadal",
+      "rallyLength": 2,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 8,
+      "score": "AD-40",
+      "serving": "Rafael Nadal",
+      "rallyLength": 4,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 9,
+      "score": "0-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 4,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 10,
+      "score": "15-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 5,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 11,
+      "score": "30-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 7,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 12,
+      "score": "30-15",
+      "serving": "Tommy Paul",
+      "rallyLength": 9,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 13,
+      "score": "40-15",
+      "serving": "Tommy Paul",
+      "rallyLength": 7,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 14,
+      "score": "0-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 3,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 15,
+      "score": "15-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 5,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 16,
+      "score": "30-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 4,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 17,
+      "score": "30-15",
+      "serving": "Rafael Nadal",
+      "rallyLength": 4,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 18,
+      "score": "30-30",
+      "serving": "Rafael Nadal",
+      "rallyLength": 5,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 19,
+      "score": "40-30",
+      "serving": "Rafael Nadal",
+      "rallyLength": 6,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 20,
+      "score": "40-40",
+      "serving": "Rafael Nadal",
+      "rallyLength": 3,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 21,
+      "score": "40-AD",
+      "serving": "Rafael Nadal",
+      "rallyLength": 8,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 22,
+      "score": "0-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 6,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 23,
+      "score": "15-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 9,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 24,
+      "score": "15-15",
+      "serving": "Tommy Paul",
+      "rallyLength": 5,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 25,
+      "score": "15-30",
+      "serving": "Tommy Paul",
+      "rallyLength": 7,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 26,
+      "score": "30-30",
+      "serving": "Tommy Paul",
+      "rallyLength": 6,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 27,
+      "score": "30-40",
+      "serving": "Tommy Paul",
+      "rallyLength": 3,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 28,
+      "score": "0-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 6,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 29,
+      "score": "15-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 6,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 30,
+      "score": "30-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 4,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 31,
+      "score": "40-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 8,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 32,
+      "score": "0-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 4,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 33,
+      "score": "15-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 9,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 34,
+      "score": "30-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 5,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 35,
+      "score": "40-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 6,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 36,
+      "score": "0-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 8,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 37,
+      "score": "0-15",
+      "serving": "Rafael Nadal",
+      "rallyLength": 6,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 38,
+      "score": "15-15",
+      "serving": "Rafael Nadal",
+      "rallyLength": 3,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 39,
+      "score": "30-15",
+      "serving": "Rafael Nadal",
+      "rallyLength": 4,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 40,
+      "score": "40-15",
+      "serving": "Rafael Nadal",
+      "rallyLength": 7,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 41,
+      "score": "0-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 8,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 42,
+      "score": "15-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 3,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 43,
+      "score": "15-15",
+      "serving": "Tommy Paul",
+      "rallyLength": 2,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 44,
+      "score": "30-15",
+      "serving": "Tommy Paul",
+      "rallyLength": 3,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 45,
+      "score": "30-30",
+      "serving": "Tommy Paul",
+      "rallyLength": 3,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 46,
+      "score": "40-30",
+      "serving": "Tommy Paul",
+      "rallyLength": 5,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 47,
+      "score": "40-40",
+      "serving": "Tommy Paul",
+      "rallyLength": 9,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 48,
+      "score": "40-AD",
+      "serving": "Tommy Paul",
+      "rallyLength": 8,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 49,
+      "score": "0-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 8,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 50,
+      "score": "15-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 6,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 51,
+      "score": "30-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 7,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 52,
+      "score": "40-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 8,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 53,
+      "score": "40-15",
+      "serving": "Rafael Nadal",
+      "rallyLength": 9,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 54,
+      "score": "40-30",
+      "serving": "Rafael Nadal",
+      "rallyLength": 7,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 55,
+      "score": "0-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 7,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 56,
+      "score": "15-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 5,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 57,
+      "score": "30-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 7,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 58,
+      "score": "40-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 9,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 59,
+      "score": "40-15",
+      "serving": "Tommy Paul",
+      "rallyLength": 9,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 60,
+      "score": "0-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 4,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 61,
+      "score": "15-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 6,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 62,
+      "score": "30-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 5,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 63,
+      "score": "40-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 9,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 64,
+      "score": "40-15",
+      "serving": "Rafael Nadal",
+      "rallyLength": 9,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 65,
+      "score": "40-30",
+      "serving": "Rafael Nadal",
+      "rallyLength": 5,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 66,
+      "score": "0-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 3,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 67,
+      "score": "0-15",
+      "serving": "Tommy Paul",
+      "rallyLength": 2,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 68,
+      "score": "0-30",
+      "serving": "Tommy Paul",
+      "rallyLength": 9,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 69,
+      "score": "15-30",
+      "serving": "Tommy Paul",
+      "rallyLength": 5,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 70,
+      "score": "30-30",
+      "serving": "Tommy Paul",
+      "rallyLength": 4,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 71,
+      "score": "30-40",
+      "serving": "Tommy Paul",
+      "rallyLength": 6,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 72,
+      "score": "40-40",
+      "serving": "Tommy Paul",
+      "rallyLength": 9,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 73,
+      "score": "AD-40",
+      "serving": "Tommy Paul",
+      "rallyLength": 4,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 74,
+      "score": "40-40",
+      "serving": "Tommy Paul",
+      "rallyLength": 5,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 75,
+      "score": "40-AD",
+      "serving": "Tommy Paul",
+      "rallyLength": 4,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 76,
+      "score": "0-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 3,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 77,
+      "score": "0-15",
+      "serving": "Rafael Nadal",
+      "rallyLength": 6,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 78,
+      "score": "0-30",
+      "serving": "Rafael Nadal",
+      "rallyLength": 6,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 79,
+      "score": "0-40",
+      "serving": "Rafael Nadal",
+      "rallyLength": 8,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 80,
+      "score": "0-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 8,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 81,
+      "score": "15-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 6,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 82,
+      "score": "15-15",
+      "serving": "Tommy Paul",
+      "rallyLength": 6,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 83,
+      "score": "30-15",
+      "serving": "Tommy Paul",
+      "rallyLength": 3,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 84,
+      "score": "30-30",
+      "serving": "Tommy Paul",
+      "rallyLength": 2,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 85,
+      "score": "40-30",
+      "serving": "Tommy Paul",
+      "rallyLength": 7,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 86,
+      "score": "40-40",
+      "serving": "Tommy Paul",
+      "rallyLength": 7,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 87,
+      "score": "AD-40",
+      "serving": "Tommy Paul",
+      "rallyLength": 2,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 88,
+      "score": "0-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 4,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 89,
+      "score": "0-15",
+      "serving": "Rafael Nadal",
+      "rallyLength": 9,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 90,
+      "score": "15-15",
+      "serving": "Rafael Nadal",
+      "rallyLength": 6,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 91,
+      "score": "15-30",
+      "serving": "Rafael Nadal",
+      "rallyLength": 2,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 92,
+      "score": "30-30",
+      "serving": "Rafael Nadal",
+      "rallyLength": 6,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 93,
+      "score": "30-40",
+      "serving": "Rafael Nadal",
+      "rallyLength": 3,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 94,
+      "score": "40-40",
+      "serving": "Rafael Nadal",
+      "rallyLength": 7,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 95,
+      "score": "40-AD",
+      "serving": "Rafael Nadal",
+      "rallyLength": 6,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 96,
+      "score": "40-40",
+      "serving": "Rafael Nadal",
+      "rallyLength": 7,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 97,
+      "score": "AD-40",
+      "serving": "Rafael Nadal",
+      "rallyLength": 4,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 98,
+      "score": "0-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 5,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 99,
+      "score": "0-15",
+      "serving": "Tommy Paul",
+      "rallyLength": 4,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 100,
+      "score": "15-15",
+      "serving": "Tommy Paul",
+      "rallyLength": 8,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 101,
+      "score": "30-15",
+      "serving": "Tommy Paul",
+      "rallyLength": 3,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 102,
+      "score": "40-15",
+      "serving": "Tommy Paul",
+      "rallyLength": 2,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 103,
+      "score": "0-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 9,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 104,
+      "score": "15-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 6,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 105,
+      "score": "30-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 4,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 106,
+      "score": "30-15",
+      "serving": "Rafael Nadal",
+      "rallyLength": 2,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 107,
+      "score": "40-15",
+      "serving": "Rafael Nadal",
+      "rallyLength": 8,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 108,
+      "score": "0-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 2,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 109,
+      "score": "15-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 5,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 110,
+      "score": "30-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 2,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 111,
+      "score": "30-15",
+      "serving": "Tommy Paul",
+      "rallyLength": 6,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 112,
+      "score": "40-15",
+      "serving": "Tommy Paul",
+      "rallyLength": 8,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 113,
+      "score": "0-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 4,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 114,
+      "score": "15-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 2,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 115,
+      "score": "15-15",
+      "serving": "Rafael Nadal",
+      "rallyLength": 3,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 116,
+      "score": "30-15",
+      "serving": "Rafael Nadal",
+      "rallyLength": 7,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 117,
+      "score": "30-30",
+      "serving": "Rafael Nadal",
+      "rallyLength": 5,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 118,
+      "score": "30-40",
+      "serving": "Rafael Nadal",
+      "rallyLength": 7,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 119,
+      "score": "40-40",
+      "serving": "Rafael Nadal",
+      "rallyLength": 4,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 120,
+      "score": "AD-40",
+      "serving": "Rafael Nadal",
+      "rallyLength": 2,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 121,
+      "score": "0-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 6,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 122,
+      "score": "15-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 5,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 123,
+      "score": "30-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 3,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 124,
+      "score": "40-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 8,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 125,
+      "score": "40-15",
+      "serving": "Tommy Paul",
+      "rallyLength": 3,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 126,
+      "score": "0-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 2,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 127,
+      "score": "15-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 5,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 128,
+      "score": "30-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 9,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 129,
+      "score": "40-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 8,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 130,
+      "score": "0-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 3,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 131,
+      "score": "0-1",
+      "serving": "Rafael Nadal",
+      "rallyLength": 5,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 132,
+      "score": "0-2",
+      "serving": "Rafael Nadal",
+      "rallyLength": 9,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 133,
+      "score": "2-1",
+      "serving": "Tommy Paul",
+      "rallyLength": 5,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 134,
+      "score": "3-1",
+      "serving": "Tommy Paul",
+      "rallyLength": 3,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 135,
+      "score": "1-4",
+      "serving": "Rafael Nadal",
+      "rallyLength": 8,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 136,
+      "score": "2-4",
+      "serving": "Rafael Nadal",
+      "rallyLength": 9,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 137,
+      "score": "4-3",
+      "serving": "Tommy Paul",
+      "rallyLength": 4,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 138,
+      "score": "5-3",
+      "serving": "Tommy Paul",
+      "rallyLength": 7,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 139,
+      "score": "3-6",
+      "serving": "Rafael Nadal",
+      "rallyLength": 4,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 140,
+      "score": "4-6",
+      "serving": "Rafael Nadal",
+      "rallyLength": 5,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 141,
+      "score": "0-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 5,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 142,
+      "score": "0-15",
+      "serving": "Rafael Nadal",
+      "rallyLength": 5,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 143,
+      "score": "15-15",
+      "serving": "Rafael Nadal",
+      "rallyLength": 7,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 144,
+      "score": "15-30",
+      "serving": "Rafael Nadal",
+      "rallyLength": 2,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 145,
+      "score": "30-30",
+      "serving": "Rafael Nadal",
+      "rallyLength": 7,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 146,
+      "score": "30-40",
+      "serving": "Rafael Nadal",
+      "rallyLength": 3,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 147,
+      "score": "0-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 2,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 148,
+      "score": "0-15",
+      "serving": "Tommy Paul",
+      "rallyLength": 4,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 149,
+      "score": "15-15",
+      "serving": "Tommy Paul",
+      "rallyLength": 2,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 150,
+      "score": "30-15",
+      "serving": "Tommy Paul",
+      "rallyLength": 9,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 151,
+      "score": "40-15",
+      "serving": "Tommy Paul",
+      "rallyLength": 3,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 152,
+      "score": "40-30",
+      "serving": "Tommy Paul",
+      "rallyLength": 6,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 153,
+      "score": "0-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 2,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 154,
+      "score": "15-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 8,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 155,
+      "score": "15-15",
+      "serving": "Rafael Nadal",
+      "rallyLength": 6,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 156,
+      "score": "30-15",
+      "serving": "Rafael Nadal",
+      "rallyLength": 8,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 157,
+      "score": "40-15",
+      "serving": "Rafael Nadal",
+      "rallyLength": 2,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 158,
+      "score": "40-30",
+      "serving": "Rafael Nadal",
+      "rallyLength": 3,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 159,
+      "score": "0-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 8,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 160,
+      "score": "15-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 8,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 161,
+      "score": "30-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 6,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 162,
+      "score": "40-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 7,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 163,
+      "score": "40-15",
+      "serving": "Tommy Paul",
+      "rallyLength": 6,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 164,
+      "score": "40-30",
+      "serving": "Tommy Paul",
+      "rallyLength": 2,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 165,
+      "score": "40-40",
+      "serving": "Tommy Paul",
+      "rallyLength": 8,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 166,
+      "score": "40-AD",
+      "serving": "Tommy Paul",
+      "rallyLength": 5,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 167,
+      "score": "40-40",
+      "serving": "Tommy Paul",
+      "rallyLength": 4,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 168,
+      "score": "AD-40",
+      "serving": "Tommy Paul",
+      "rallyLength": 5,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 169,
+      "score": "0-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 8,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 170,
+      "score": "15-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 3,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 171,
+      "score": "15-15",
+      "serving": "Rafael Nadal",
+      "rallyLength": 4,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 172,
+      "score": "15-30",
+      "serving": "Rafael Nadal",
+      "rallyLength": 9,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 173,
+      "score": "15-40",
+      "serving": "Rafael Nadal",
+      "rallyLength": 9,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 174,
+      "score": "0-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 2,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 175,
+      "score": "15-0",
+      "serving": "Tommy Paul",
+      "rallyLength": 9,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 176,
+      "score": "15-15",
+      "serving": "Tommy Paul",
+      "rallyLength": 3,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 177,
+      "score": "15-30",
+      "serving": "Tommy Paul",
+      "rallyLength": 7,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 178,
+      "score": "30-30",
+      "serving": "Tommy Paul",
+      "rallyLength": 7,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 179,
+      "score": "40-30",
+      "serving": "Tommy Paul",
+      "rallyLength": 2,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 180,
+      "score": "0-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 2,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 181,
+      "score": "15-0",
+      "serving": "Rafael Nadal",
+      "rallyLength": 2,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 182,
+      "score": "15-15",
+      "serving": "Rafael Nadal",
+      "rallyLength": 2,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 183,
+      "score": "30-15",
+      "serving": "Rafael Nadal",
+      "rallyLength": 2,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 184,
+      "score": "30-30",
+      "serving": "Rafael Nadal",
+      "rallyLength": 3,
+      "winner": "Rafael Nadal",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 185,
+      "score": "40-30",
+      "serving": "Rafael Nadal",
+      "rallyLength": 8,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 186,
+      "score": "40-40",
+      "serving": "Rafael Nadal",
+      "rallyLength": 2,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 187,
+      "score": "40-AD",
+      "serving": "Rafael Nadal",
+      "rallyLength": 6,
+      "winner": "Tommy Paul",
+      "outcome": "Point",
+      "isBreakPoint": false
+    }
+  ]
+}

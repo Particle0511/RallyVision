@@ -1,0 +1,305 @@
+{
+  "matchId": "20220330-M-Miami_Masters-QF-Francisco_Cerundolo-Jannik_Sinner",
+  "player1": "Francisco Cerundolo",
+  "player2": "Jannik Sinner",
+  "tournament": "Miami Masters",
+  "points": [
+    {
+      "pointId": 1,
+      "score": "0-0",
+      "serving": "Francisco Cerundolo",
+      "rallyLength": 5,
+      "winner": "Francisco Cerundolo",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 2,
+      "score": "15-0",
+      "serving": "Francisco Cerundolo",
+      "rallyLength": 7,
+      "winner": "Jannik Sinner",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 3,
+      "score": "15-15",
+      "serving": "Francisco Cerundolo",
+      "rallyLength": 3,
+      "winner": "Jannik Sinner",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 4,
+      "score": "15-30",
+      "serving": "Francisco Cerundolo",
+      "rallyLength": 9,
+      "winner": "Francisco Cerundolo",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 5,
+      "score": "30-30",
+      "serving": "Francisco Cerundolo",
+      "rallyLength": 5,
+      "winner": "Jannik Sinner",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 6,
+      "score": "30-40",
+      "serving": "Francisco Cerundolo",
+      "rallyLength": 3,
+      "winner": "Francisco Cerundolo",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 7,
+      "score": "40-40",
+      "serving": "Francisco Cerundolo",
+      "rallyLength": 8,
+      "winner": "Francisco Cerundolo",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 8,
+      "score": "AD-40",
+      "serving": "Francisco Cerundolo",
+      "rallyLength": 5,
+      "winner": "Jannik Sinner",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 9,
+      "score": "40-40",
+      "serving": "Francisco Cerundolo",
+      "rallyLength": 8,
+      "winner": "Francisco Cerundolo",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 10,
+      "score": "AD-40",
+      "serving": "Francisco Cerundolo",
+      "rallyLength": 3,
+      "winner": "Francisco Cerundolo",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 11,
+      "score": "0-0",
+      "serving": "Jannik Sinner",
+      "rallyLength": 6,
+      "winner": "Jannik Sinner",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 12,
+      "score": "15-0",
+      "serving": "Jannik Sinner",
+      "rallyLength": 8,
+      "winner": "Jannik Sinner",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 13,
+      "score": "30-0",
+      "serving": "Jannik Sinner",
+      "rallyLength": 5,
+      "winner": "Jannik Sinner",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 14,
+      "score": "40-0",
+      "serving": "Jannik Sinner",
+      "rallyLength": 4,
+      "winner": "Francisco Cerundolo",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 15,
+      "score": "40-15",
+      "serving": "Jannik Sinner",
+      "rallyLength": 8,
+      "winner": "Jannik Sinner",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 16,
+      "score": "0-0",
+      "serving": "Francisco Cerundolo",
+      "rallyLength": 3,
+      "winner": "Francisco Cerundolo",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 17,
+      "score": "15-0",
+      "serving": "Francisco Cerundolo",
+      "rallyLength": 8,
+      "winner": "Jannik Sinner",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 18,
+      "score": "15-15",
+      "serving": "Francisco Cerundolo",
+      "rallyLength": 3,
+      "winner": "Francisco Cerundolo",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 19,
+      "score": "30-15",
+      "serving": "Francisco Cerundolo",
+      "rallyLength": 3,
+      "winner": "Jannik Sinner",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 20,
+      "score": "30-30",
+      "serving": "Francisco Cerundolo",
+      "rallyLength": 9,
+      "winner": "Francisco Cerundolo",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 21,
+      "score": "40-30",
+      "serving": "Francisco Cerundolo",
+      "rallyLength": 2,
+      "winner": "Francisco Cerundolo",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 22,
+      "score": "0-0",
+      "serving": "Jannik Sinner",
+      "rallyLength": 2,
+      "winner": "Jannik Sinner",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 23,
+      "score": "15-0",
+      "serving": "Jannik Sinner",
+      "rallyLength": 7,
+      "winner": "Jannik Sinner",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 24,
+      "score": "30-0",
+      "serving": "Jannik Sinner",
+      "rallyLength": 7,
+      "winner": "Jannik Sinner",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 25,
+      "score": "40-0",
+      "serving": "Jannik Sinner",
+      "rallyLength": 4,
+      "winner": "Francisco Cerundolo",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 26,
+      "score": "40-15",
+      "serving": "Jannik Sinner",
+      "rallyLength": 2,
+      "winner": "Francisco Cerundolo",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 27,
+      "score": "40-30",
+      "serving": "Jannik Sinner",
+      "rallyLength": 6,
+      "winner": "Francisco Cerundolo",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 28,
+      "score": "40-40",
+      "serving": "Jannik Sinner",
+      "rallyLength": 5,
+      "winner": "Francisco Cerundolo",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 29,
+      "score": "40-AD",
+      "serving": "Jannik Sinner",
+      "rallyLength": 7,
+      "winner": "Francisco Cerundolo",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 30,
+      "score": "0-0",
+      "serving": "Francisco Cerundolo",
+      "rallyLength": 4,
+      "winner": "Francisco Cerundolo",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 31,
+      "score": "15-0",
+      "serving": "Francisco Cerundolo",
+      "rallyLength": 9,
+      "winner": "Francisco Cerundolo",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 32,
+      "score": "30-0",
+      "serving": "Francisco Cerundolo",
+      "rallyLength": 8,
+      "winner": "Francisco Cerundolo",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 33,
+      "score": "40-0",
+      "serving": "Francisco Cerundolo",
+      "rallyLength": 9,
+      "winner": "Francisco Cerundolo",
+      "outcome": "Point",
+      "isBreakPoint": false
+    }
+  ]
+}

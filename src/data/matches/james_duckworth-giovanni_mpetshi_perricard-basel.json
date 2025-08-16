@@ -1,0 +1,1205 @@
+{
+  "matchId": "20241021-M-Basel-R32-James_Duckworth-Giovanni_Mpetshi_Perricard",
+  "player1": "James Duckworth",
+  "player2": "Giovanni Mpetshi Perricard",
+  "tournament": "Basel",
+  "points": [
+    {
+      "pointId": 1,
+      "score": "0-0",
+      "serving": "James Duckworth",
+      "rallyLength": 4,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 2,
+      "score": "0-15",
+      "serving": "James Duckworth",
+      "rallyLength": 4,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 3,
+      "score": "0-30",
+      "serving": "James Duckworth",
+      "rallyLength": 4,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 4,
+      "score": "15-30",
+      "serving": "James Duckworth",
+      "rallyLength": 8,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 5,
+      "score": "30-30",
+      "serving": "James Duckworth",
+      "rallyLength": 6,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 6,
+      "score": "40-30",
+      "serving": "James Duckworth",
+      "rallyLength": 7,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 7,
+      "score": "40-40",
+      "serving": "James Duckworth",
+      "rallyLength": 8,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 8,
+      "score": "AD-40",
+      "serving": "James Duckworth",
+      "rallyLength": 7,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 9,
+      "score": "40-40",
+      "serving": "James Duckworth",
+      "rallyLength": 7,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 10,
+      "score": "AD-40",
+      "serving": "James Duckworth",
+      "rallyLength": 4,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 11,
+      "score": "0-0",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 8,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 12,
+      "score": "0-15",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 5,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 13,
+      "score": "15-15",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 7,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 14,
+      "score": "30-15",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 2,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 15,
+      "score": "40-15",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 2,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 16,
+      "score": "0-0",
+      "serving": "James Duckworth",
+      "rallyLength": 2,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 17,
+      "score": "0-15",
+      "serving": "James Duckworth",
+      "rallyLength": 2,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 18,
+      "score": "15-15",
+      "serving": "James Duckworth",
+      "rallyLength": 2,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 19,
+      "score": "30-15",
+      "serving": "James Duckworth",
+      "rallyLength": 5,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 20,
+      "score": "30-30",
+      "serving": "James Duckworth",
+      "rallyLength": 2,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 21,
+      "score": "40-30",
+      "serving": "James Duckworth",
+      "rallyLength": 2,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 22,
+      "score": "0-0",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 8,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 23,
+      "score": "15-0",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 2,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 24,
+      "score": "30-0",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 5,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 25,
+      "score": "40-0",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 9,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 26,
+      "score": "0-0",
+      "serving": "James Duckworth",
+      "rallyLength": 5,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 27,
+      "score": "15-0",
+      "serving": "James Duckworth",
+      "rallyLength": 6,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 28,
+      "score": "30-0",
+      "serving": "James Duckworth",
+      "rallyLength": 2,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 29,
+      "score": "30-15",
+      "serving": "James Duckworth",
+      "rallyLength": 4,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 30,
+      "score": "40-15",
+      "serving": "James Duckworth",
+      "rallyLength": 9,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 31,
+      "score": "0-0",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 3,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 32,
+      "score": "15-0",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 5,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 33,
+      "score": "30-0",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 5,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 34,
+      "score": "40-0",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 6,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 35,
+      "score": "40-15",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 3,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 36,
+      "score": "40-30",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 4,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 37,
+      "score": "0-0",
+      "serving": "James Duckworth",
+      "rallyLength": 3,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 38,
+      "score": "15-0",
+      "serving": "James Duckworth",
+      "rallyLength": 9,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 39,
+      "score": "30-0",
+      "serving": "James Duckworth",
+      "rallyLength": 2,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 40,
+      "score": "40-0",
+      "serving": "James Duckworth",
+      "rallyLength": 9,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 41,
+      "score": "40-15",
+      "serving": "James Duckworth",
+      "rallyLength": 8,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 42,
+      "score": "0-0",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 2,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 43,
+      "score": "0-15",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 4,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 44,
+      "score": "15-15",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 3,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 45,
+      "score": "30-15",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 7,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 46,
+      "score": "30-30",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 2,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 47,
+      "score": "40-30",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 5,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 48,
+      "score": "0-0",
+      "serving": "James Duckworth",
+      "rallyLength": 4,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 49,
+      "score": "15-0",
+      "serving": "James Duckworth",
+      "rallyLength": 2,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 50,
+      "score": "30-0",
+      "serving": "James Duckworth",
+      "rallyLength": 7,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 51,
+      "score": "40-0",
+      "serving": "James Duckworth",
+      "rallyLength": 5,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 52,
+      "score": "40-15",
+      "serving": "James Duckworth",
+      "rallyLength": 7,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 53,
+      "score": "0-0",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 7,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 54,
+      "score": "0-15",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 6,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 55,
+      "score": "15-15",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 9,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 56,
+      "score": "30-15",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 3,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 57,
+      "score": "40-15",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 2,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 58,
+      "score": "0-0",
+      "serving": "James Duckworth",
+      "rallyLength": 3,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 59,
+      "score": "15-0",
+      "serving": "James Duckworth",
+      "rallyLength": 2,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 60,
+      "score": "30-0",
+      "serving": "James Duckworth",
+      "rallyLength": 2,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 61,
+      "score": "40-0",
+      "serving": "James Duckworth",
+      "rallyLength": 8,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 62,
+      "score": "40-15",
+      "serving": "James Duckworth",
+      "rallyLength": 3,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 63,
+      "score": "0-0",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 7,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 64,
+      "score": "15-0",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 3,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 65,
+      "score": "30-0",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 6,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 66,
+      "score": "40-0",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 8,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 67,
+      "score": "40-15",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 9,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 68,
+      "score": "0-0",
+      "serving": "James Duckworth",
+      "rallyLength": 6,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 69,
+      "score": "0-1",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 4,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 70,
+      "score": "0-2",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 7,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 71,
+      "score": "2-1",
+      "serving": "James Duckworth",
+      "rallyLength": 3,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 72,
+      "score": "3-1",
+      "serving": "James Duckworth",
+      "rallyLength": 6,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 73,
+      "score": "2-3",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 4,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 74,
+      "score": "2-4",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 2,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 75,
+      "score": "4-3",
+      "serving": "James Duckworth",
+      "rallyLength": 8,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 76,
+      "score": "4-4",
+      "serving": "James Duckworth",
+      "rallyLength": 6,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 77,
+      "score": "5-4",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 2,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 78,
+      "score": "6-4",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 2,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 79,
+      "score": "0-0",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 7,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 80,
+      "score": "15-0",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 9,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 81,
+      "score": "30-0",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 7,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 82,
+      "score": "30-15",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 3,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 83,
+      "score": "40-15",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 4,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 84,
+      "score": "0-0",
+      "serving": "James Duckworth",
+      "rallyLength": 9,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 85,
+      "score": "0-15",
+      "serving": "James Duckworth",
+      "rallyLength": 5,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 86,
+      "score": "15-15",
+      "serving": "James Duckworth",
+      "rallyLength": 9,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 87,
+      "score": "15-30",
+      "serving": "James Duckworth",
+      "rallyLength": 4,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 88,
+      "score": "30-30",
+      "serving": "James Duckworth",
+      "rallyLength": 9,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 89,
+      "score": "40-30",
+      "serving": "James Duckworth",
+      "rallyLength": 3,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 90,
+      "score": "0-0",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 4,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 91,
+      "score": "15-0",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 6,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 92,
+      "score": "15-15",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 7,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 93,
+      "score": "30-15",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 2,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 94,
+      "score": "40-15",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 2,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 95,
+      "score": "0-0",
+      "serving": "James Duckworth",
+      "rallyLength": 3,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 96,
+      "score": "0-15",
+      "serving": "James Duckworth",
+      "rallyLength": 5,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 97,
+      "score": "15-15",
+      "serving": "James Duckworth",
+      "rallyLength": 3,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 98,
+      "score": "15-30",
+      "serving": "James Duckworth",
+      "rallyLength": 5,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 99,
+      "score": "15-40",
+      "serving": "James Duckworth",
+      "rallyLength": 8,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 100,
+      "score": "30-40",
+      "serving": "James Duckworth",
+      "rallyLength": 8,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 101,
+      "score": "40-40",
+      "serving": "James Duckworth",
+      "rallyLength": 7,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 102,
+      "score": "40-AD",
+      "serving": "James Duckworth",
+      "rallyLength": 5,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 103,
+      "score": "0-0",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 4,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 104,
+      "score": "0-15",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 3,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 105,
+      "score": "0-30",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 3,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 106,
+      "score": "15-30",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 8,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 107,
+      "score": "30-30",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 5,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 108,
+      "score": "40-30",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 2,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 109,
+      "score": "40-40",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 6,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 110,
+      "score": "AD-40",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 2,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 111,
+      "score": "0-0",
+      "serving": "James Duckworth",
+      "rallyLength": 6,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 112,
+      "score": "15-0",
+      "serving": "James Duckworth",
+      "rallyLength": 6,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 113,
+      "score": "30-0",
+      "serving": "James Duckworth",
+      "rallyLength": 7,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 114,
+      "score": "40-0",
+      "serving": "James Duckworth",
+      "rallyLength": 2,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 115,
+      "score": "40-15",
+      "serving": "James Duckworth",
+      "rallyLength": 8,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 116,
+      "score": "0-0",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 9,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 117,
+      "score": "0-15",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 9,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 118,
+      "score": "15-15",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 2,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 119,
+      "score": "30-15",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 7,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 120,
+      "score": "40-15",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 4,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 121,
+      "score": "0-0",
+      "serving": "James Duckworth",
+      "rallyLength": 6,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 122,
+      "score": "15-0",
+      "serving": "James Duckworth",
+      "rallyLength": 3,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 123,
+      "score": "15-15",
+      "serving": "James Duckworth",
+      "rallyLength": 5,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 124,
+      "score": "30-15",
+      "serving": "James Duckworth",
+      "rallyLength": 9,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 125,
+      "score": "30-30",
+      "serving": "James Duckworth",
+      "rallyLength": 9,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 126,
+      "score": "30-40",
+      "serving": "James Duckworth",
+      "rallyLength": 9,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 127,
+      "score": "40-40",
+      "serving": "James Duckworth",
+      "rallyLength": 9,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 128,
+      "score": "AD-40",
+      "serving": "James Duckworth",
+      "rallyLength": 9,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 129,
+      "score": "0-0",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 3,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 130,
+      "score": "15-0",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 8,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 131,
+      "score": "30-0",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 7,
+      "winner": "James Duckworth",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 132,
+      "score": "30-15",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 6,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    },
+    {
+      "pointId": 133,
+      "score": "40-15",
+      "serving": "Giovanni Mpetshi Perricard",
+      "rallyLength": 6,
+      "winner": "Giovanni Mpetshi Perricard",
+      "outcome": "Point",
+      "isBreakPoint": false
+    }
+  ]
+}
